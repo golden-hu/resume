@@ -1,21 +1,76 @@
-# Nathaniel Welch
+# 郝健宗
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
+ * <haojianzong@gmail.com>
+ * <http://haojianzong.com>
 
-## Background
+## 简介
 
-I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for mankind. 
+我是一名具有2年经验的中级iOS开发工程师，熟悉iOS软件架构、常用设计模式以及复杂的自定义控件及动画，具备开发复杂App的经验，同时具备1年Ruby
+on Rails开发及多年前端开发经验。
 
-I am an Eagle Scout and in my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
+作为一位苹果粉丝，我喜欢研究苹果最新技术。我经常保持对iOS的开发生态的学习和了解，包括Auto Layout、Storyboard、ARC及Swift等新技术。因此，通过学习使我能在项目中选择合适的解决方案，让开发过程变得更高效、有意思。我通过学习Code Complete、CSAPP、WWDC视频以及技术期刊等资料，提高自己基础知识和代码质量。
 
-My goal is to obtain a software development job at a small company, focusing on launching and building software for the web.
+我的业余时间多用于学习技术、写博客和做一些兴趣项目。目前，我正和几个小伙伴写一套包括服务端、网页端、iOS客户端及安卓客户端的出租房屋管理工具。
 
-## Education
+## 技术
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
+### iOS开发
+
+#### iOS软件架构
+
+在开发Klook iOS客户端时，我曾专门花了一段时间构思软件架构。事实证明，研究软件架构知识，这项工作对项目的意义很大。我在Klook iOS App中应用了MVVM和VIPER等设计思想，跟单纯使用MVC模式的项目相比，该项目代码模块更加清晰、有层次、低耦合，从而易于开发、测试以及维护，对于产品快速迭代和提高用户体验有很大帮助。
+
+#### 界面和动画
+
+我有丰富的自定义界面及动画经验。良好的用户体验对于一款App来说至关重要，所以我开发的每一款App，都会在用户界面上花大力气。我熟悉运用Auto layout进行设备适配、使用storyboard进行产品的快速成型。因为Interface Builder的局限性，我更习惯使用纯代码实现自定义控件以及较为复杂的界面。
+
+#### 自动化测试
+
+受Ruby on Rails项目测试驱动开发的思想启发，我坚持在iOS项目中编写自动化测试代码。虽然一般iOS项目因为界面代码较多，往往不易于测试。但我发觉，只要项目架构清晰，iOS项目也可以易于测试。对于Model以及View Model，使用测试驱动开发的办法，不仅能够有效降低开发时间，还能使项目代码更加可靠。
+
+### 服务端开发
+
+我曾从事过Ruby on Rails开发，以及参与多款iOS App服务端Restful API的设计。相比其他后台语言，我喜欢Ruby on Rails在开发速度上的优势。我对于常用的http协议、json协议、Restful API等网络编程知识有一定了解。
+
+### 前端开发
+
+我有较为丰富的前端开发经验。我曾应用jQuery、CSS独立完成多个小商业项目，亦维护过中型项目的前端代码。对于常用Bootstrap、font-awesome等第三方框架有一定了解。我自己的博客前端部分，是由我自己设计和编写的。如非必要，我不喜欢在项目中使用过多的前端框架，因为会使网站加载速度变慢以及增加后期维护难度。
+
+## 工作经验
+
+### 深圳客路网络科技有限公司(klook.com)
+
+#### iOS开发工程师 - 2014年8月 - 至今
+
+ * 使用技术：iOS 开发, 测试驱动开发, git, Javascript, HTML, CSS, Java
+ * 主要职责：负责Klook iOS App架构及开发，参与该App原型、界面设计、Api设计、开发、测试、发布全过程及产品的多次版本迭代。参与维护Klook网站前端及部分后端代码。
+ * 技术难点：Klook iOS App涉及多语言浏览、多货币支付等较复杂功能，软件复杂度较高。另外，目标人群为年轻人群体，对界面要求较高。
+
+### 广州贝艾技术有限公司 
+
+#### iOS开发工程师 - 2013年11月 - 2014年7月
+
+ * 使用技术：iOS开发, Ruby on Rails开发, 测试驱动开发, git, Javascript, HTML, CSS
+ * 主要职责：负责开发酒店订房客户端开发，服务端自动生成App；参与该酒店项目服务端开发（Ruby on Rails）及前端开发，包括沟通需求、独立开发商户后台管理系统前后端多个功能、接入七牛云储存服务等；另外，还负责该公司智能门锁iOS客户端、pm25.in iOS客户端项目的开发及维护。
+
+### 中国平安保险股份有限公司（集团总部财务部）
+
+#### 财务管理岗 - 2012年10月 - 2013年7月
+
+ * 主要职责：核算集团子公司之间合作业务的成本并开发相关业务条线的管理报表，为管理层决策提供数据支持，各方沟通、开发并测试ORACLE财务系统的FAS报表； 
+
+## 教育背景
+
+工商管理本科
+2005年9月 - 2009年7月
+中国人民大学商学院
+
+## 其他
+
+ * 业余时间，我通过阅读Computer Systems、鸟哥的linux私房菜等书籍学习计算机基础知识。
+ * 我正通过学习最新的CS193P课程了解swift，并在Github上与人合作编写一款开源Swift App。
+ * 我的[转行经历](http://qr.ae/GzYwd)
+ * 英语水平：国家英语六级考试（CET-6） 630分，GMAT 730分，持续学习并使用英语，具备优秀的听、说、读、写、译等能力。
 
 ## Proficiency
 

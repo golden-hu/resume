@@ -20,7 +20,7 @@ end
 get '/index.html' do
   rfile = settings.config['file']
   name  = settings.config['name']
-  title = "#{name}'s Resume"
+  title = "#{name}的简历"
 
   template = Tilt.new(rfile)
   resume = template.render

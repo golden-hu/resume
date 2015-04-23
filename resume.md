@@ -2,6 +2,7 @@
 
  * <haojianzong@gmail.com>
  * <http://www.haojianzong.com>
+ * 联系电话: 18028658167
  * 深圳
 
 ## 简介
@@ -38,7 +39,7 @@ Layout、Storyboard、ARC及Swift等新技术。因此，我才能在项目中�
 
 #### iOS开发工程师 - 2014年7月 - 至今
 
- * 使用技术：iOS 开发, 测试驱动开发, Git, Javascript, HTML, CSS, Java
+ * 使用技术：iOS 开发, 测试驱动开发, Instruments, Git, Javascript, HTML, CSS, Java
  * 主要职责：负责Klook iOS App架构及开发，参与该App原型、界面设计、Api设计、开发、测试、发布全过程及产品的多次版本迭代。参与维护Klook网站前端及部分后端代码。
  * 技术难点：Klook App涉及多语言浏览、多货币境外支付等功能，软件复杂度较高。另外，为了提高用户体验，需要实现较为复杂的用户交互界面。
 

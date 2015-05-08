@@ -2,7 +2,6 @@
 
  * <haojianzong@gmail.com>
  * <http://www.haojianzong.com>
- * 联系电话: 18028658167
  * 深圳
 
 ## 简介

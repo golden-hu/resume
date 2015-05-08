@@ -7,8 +7,8 @@
 
 ## 简介
 
-我是一名具有2年经验的**中级iOS开发工程师**，熟悉iOS软件架构、设计模式以及复杂的自定义控件及动画，具备开发复杂App的项目经验，同时具备1年Ruby
-on Rails及多年前端开发经验。
+我是一名具有2年经验的**中级iOS开发工程师**，熟悉iOS软件架构、设计模式以及复杂的自定义控件及动画，具备开发复杂App的项目经验，我最近开发的Klook
+iOS App在上线首月便**被Apple评为优秀新App**登上App Store首页推荐首位。另外，我具备1年Ruby on Rails及多年前端开发经验。
 
 作为一位苹果产品爱好者，我喜欢研究苹果最新技术。我保持对iOS的开发生态的学习，包括Auto
 Layout、Storyboard、ARC、Handoff及Swift等新技术。因此，我才能在项目中选择合适的解决方案，提高开发效率与项目质量。另外，我通过学习Code Complete、CSAPP、WWDC视频以及技术期刊等资料，提高自己基础知识和代码质量。
@@ -41,7 +41,9 @@ Layout、Storyboard、ARC、Handoff及Swift等新技术。因此，我才能在�
 
  * 使用技术：iOS 开发, 测试驱动开发, Instruments, TestFlight,  Git Flow, Javascript, HTML, CSS, Java
  * 主要职责：负责Klook iOS App架构及开发，参与该App原型、界面设计、Api设计、开发、测试、发布全过程及产品的多次版本迭代。参与维护Klook网站前端及部分后端代码。
- * 技术难点：Klook App涉及多语言浏览、多货币境外支付等功能，软件复杂度较高。另外，为了提高用户体验，需要实现较为复杂的用户交互界面。
+ * 技术难点：Klook
+ * App涉及多语言浏览、多货币境外支付等功能，软件复杂度较高。另外，为了提高用户体验，需要实现较为复杂的用户交互界面。Klook
+ * iOS App在App Store **第一次提交**就通过审核，发布首月就被Apple评为**优秀新App**登上App Store首页推荐。
 
 ### 广州贝艾技术有限公司 
 

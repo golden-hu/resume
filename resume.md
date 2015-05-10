@@ -7,7 +7,7 @@
 ## 简介
 
 我是一名具有2年经验的**中级iOS开发工程师**，熟悉iOS软件架构、设计模式以及复杂的自定义控件及动画，具备开发复杂App的项目经验，我最近开发的Klook
-iOS App在上线首月便**被Apple评为优秀新App**登上App Store首页推荐首位。另外，我具备1年Ruby on Rails及多年前端开发经验。
+iOS App在上线首月便**被Apple评为优秀新App**登上App Store首页推荐**榜首位置**。另外，我具备1年Ruby on Rails及多年前端开发经验。
 
 作为一位苹果产品爱好者，我喜欢研究苹果最新技术。我保持对iOS的开发生态的学习，包括Auto
 Layout、Storyboard、ARC、Handoff及Swift等新技术。因此，我才能在项目中选择合适的解决方案，提高开发效率与项目质量。另外，我通过学习Code Complete、CSAPP、WWDC视频以及技术期刊等资料，提高自己基础知识和代码质量。

@@ -3,12 +3,13 @@
  * <haojianzong@gmail.com>
  * <http://www.haojianzong.com>
  * 深圳
+ * 联系电话：18028658167
 
 ## 简介
 
 我是一名具有2年经验的**中级iOS开发工程师**，熟悉iOS软件架构、设计模式以及复杂的自定义控件及动画，具备开发复杂App的项目经验，我最近开发的Klook
 iOS
-App在上线首月便**被Apple评为[优秀新App](https://www.appannie.com/apps/ios/app/klook/features)**登上14个国家App Store首页推荐**榜首位置**。另外，我具备1年Ruby on Rails及多年前端开发经验。
+App在上线首月便**被Apple评为优秀新App**登上14个国家App Store首页推荐**榜首位置**([链接](https://www.appannie.com/apps/ios/app/klook/features))。另外，我具备1年Ruby on Rails及多年前端开发经验。
 
 作为一位苹果产品爱好者，我喜欢研究苹果最新技术。我保持对iOS的开发生态的学习，包括Auto
 Layout、Storyboard、ARC、Handoff及Swift等新技术。因此，我才能在项目中选择合适的解决方案，提高开发效率与项目质量。另外，我通过学习Code Complete、CSAPP、WWDC视频以及技术期刊等资料，提高自己基础知识和代码质量。
@@ -57,7 +58,7 @@ Layout、Storyboard、ARC、Handoff及Swift等新技术。因此，我才能在�
 
 #### 财务管理岗 - 2012年10月 - 2013年7月
 
- * 主要职责：核算集团子公司之间合作业务的成本并开发相关业务条线的管理报表，为管理层决策提供数据支持，各方沟通、开发并测试ORACLE财务系统的FAS报表； 
+ * 主要职责：核算集团子公司之间合作业务的成本并开发相关业务条线的管理报表，为管理层决策提供数据支持，各方沟通、开发并测试ORACLE财务系统的FAS报表。
 
 ## 教育背景
 

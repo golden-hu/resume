@@ -6,12 +6,12 @@
 
 ## Summary
 
-I am an *iOS Developer with 3+ years experience*, including exposure to web
+I am an **iOS Developer with 3+ years experience**, including exposure to web
 developemnt both in front-end and backend.
 
 I enjoy developing complex application, both in user interface and system
-levels. I am currently working on QQMusic, the *NO.1 music App* in China. In
-the process of developing for over *100 millions* users, I learn a
+levels. I am currently working on QQMusic, the **NO.1 music App** in China. In
+the process of developing for over **100 millions** users, I learn a
 lot about code optimization, debugging and writing reusable code.
 
 As an iOS develop lead, I take major part in designing and developing Klook iOS App, which is featured as "Best of 2015" by Apple.
@@ -66,13 +66,14 @@ tcp and Restful API.
 ## Education
 
 2005 - 2009 <br />
-Renmin University of China <br />
+*Renmin University of China* <br />
 Bachelor, School of Business
 
-2009年 - 2012 Chinese Institute of Certified Public Accountants
+2009 - 2012 
+Chinese Institute of Certified Public Accountants <br />
 
 ## Other
- * Language Skills: Excellent in CET-6 and GMAT(730), proficient in speaking, reading and writing English.
+ * Language Skills: **Excellent in CET-6 and GMAT(730)**, proficient in speaking, reading and writing English.
  * In my spare time, I read classic technology books: <Algorithms>, <Computer Systems> and <Programming Pearls>.
  * I host several repositories on Github such as JZDatepicker and some blog themes.
  * I write about my career switch experience in [Quora](http://qr.ae/GzYwd)](http://qr.ae/GzYwd)

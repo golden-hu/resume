@@ -5,12 +5,11 @@ body { background: white; color: black; font-family: serif; }
 
 .download { display: none; }
 
-#resume { font-size: 8pt; }
+#resume { font-size: 8pt; font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif; }
 #resume a, #resume a:visited { color: black; text-decoration: none; }
-#resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0 !important; }
 #resume h1 { font-size: 170%; }
 #resume h1:first-child { font-size: 210%; }
-#resume h2 { font-size: 150%; }
+#resume h2 { font-size: 150%; margin-top: 30px; padding-top: 5px; border-top: 1px solid #E0E0E0; }
 #resume h3 { margin-top: 0.6em; font-size: 130%; margin-bottom: 0; }
 #resume p { margin: 0.6em 0; line-height: 1.5em; }
 #resume blockquote { border: 0 !important; margin: 0.5em 0 !important; padding-left: 0.6em !important; }

@@ -16,15 +16,6 @@ lot about code optimization, debugging and writing reusable code.
 
 As an iOS develop lead, I take major part in designing and developing Klook iOS App, which is featured as "Best of 2015" by Apple.
 
-* 3 years objective-c/iOS development experience
-* 1 year building complex application (QQMusic) for the iPhone using
-* Objective-C with Cocoa and other framework. Serving *** millions of
- activeusers
-* Experience in user interface and system levels
-* Experience in Debug/Refactor complex code bases.
-* Experience in multithreading programming, unit tests and testable code
-* good knowledge of iOS SDK performance tools and optimization techniques
-
 ## Skills and Experience
 
 ### iOS Development

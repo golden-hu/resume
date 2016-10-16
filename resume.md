@@ -39,7 +39,7 @@ Layout、Storyboard、ARC、Handoff及Swift等新技术。因此，我才能在�
 
 ### 深圳客路网络科技有限公司(klook.com)
 
-#### iOS开发工程师 - 2014年7月 - 至今
+#### iOS开发工程师 - 2014年8月 - 至今
 
  * 使用技术：iOS 开发, 测试驱动开发, Instruments, TestFlight,  Git Flow, Javascript, HTML, CSS, Java
  * 主要职责：负责Klook iOS App架构及开发，参与该App原型、界面设计、Api设计、开发、测试、发布全过程及产品的多次版本迭代。参与维护Klook网站前端及部分后端代码。

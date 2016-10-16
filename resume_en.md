@@ -1,0 +1,87 @@
+# HAO JIANZONG (Jakehao)
+
+ * <haojianzong@gmail.com>
+ * <http://www.haojianzong.com>
+ * Shenzhen, China
+
+## Summary
+
+I am an *iOS Developer with 3+ years experience*, including exposure to web
+developemnt both in front-end and backend.
+
+I enjoy developing complex application, both in user interface and system
+levels. I am currently working on QQMusic, the *NO.1 music App* in China. In
+the process of developing for over *100 millions* users, I learn a
+lot about code optimization, debugging and writing reusable code.
+
+As an iOS develop lead, I take major part in designing and developing Klook iOS App, which is featured as "Best of 2015" by Apple.
+
+* 3 years objective-c/iOS development experience
+* 1 year building complex application (QQMusic) for the iPhone using
+* Objective-C with Cocoa and other framework. Serving *** millions of
+ activeusers
+* Experience in user interface and system levels
+* Experience in Debug/Refactor complex code bases.
+* Experience in multithreading programming, unit tests and testable code
+* good knowledge of iOS SDK performance tools and optimization techniques
+
+## Skills and Experience
+
+### iOS Development
+
+**iOS Software Architecture** - I have good and board experience with iOS
+software architecture. I refactor several core UI components of QQMusic using
+MVC, making the code easy to understand and less error prone. In my
+experience, MVC is not the only option for iOS Apps. During the development of
+Klook iOS App, I apply MVVM to build the structure of the app. As a result,
+the code base of Klook iOS App is easier to develop, iterate, test, and maintain.
+
+**UI / Animation** - I have rich experience in developing iOS user interface
+and animation. It is crucial for an iOS App to excel in UI/UX. Therefore, I
+work hard to achieve good UI/UX experience for every App I develop. I am skilled in using storyboard, Auto Layout. Because using Interface Builder is not friendly to version
+control software, I sometimes prefer writing user interface code
+programatically.
+
+### Web development
+
+I am familiar with web development, both in front-end and backend. I have
+develop for and maintain several commercial websites using jQuery, CSS and
+HTML. On the other hand, I have experience in Ruby on Rails development.
+Therefore, I am familiar with network programming, for example, http, json,
+tcp and Restful API.
+
+## Employment
+
+### Tencent Technology (Shenzhen) Co Ltd
+
+#### iOS Software Engineer - August, 2015 - Present
+ * Skills: iOS SDK, Instruments, TestFlight, Git Flow
+
+### Klook Travel Technology Limited (klook.com)
+
+#### iOS Software Engineer - Jul, 2014 - Aug, 2015
+
+ * Skills: iOS SDK, TDD, Instruments, TestFlight, Git Flow, Javascript, HTML, CSS, Java
+ * 主要职责：负责Klook iOS App架构及开发，参与该App原型、界面设计、Api设计、开发、测试、发布全过程及产品的多次版本迭代。参与维护Klook网站前端及部分后端代码。
+ * 技术难点：Klook App涉及多语言浏览、多货币境外支付等功能，软件复杂度较高。另外，为了提高用户体验，需要实现较为复杂的用户交互界面。App在App Store **第一次提交**就通过审核，发布首月就被评为**优秀新App**登上App Store首页推荐(链接：[http://dwz.cn/MEOUQ](http://dwz.cn/MEOUQ))。
+
+### Guangzhou BestApp Co Ltd 
+
+#### iOS Software Engineer - Nov, 2013 - Jul, 2014
+
+ * 使用技术：iOS, Ruby on Rails, TDD, Git, Javascript, HTML, CSS
+ * 主要职责：负责开发酒店订房客户端开发，服务端自动生成App；参与该酒店项目服务端开发（Ruby on Rails）及前端开发，包括沟通需求、独立开发商户后台管理系统前后端多个功能、接入七牛云储存服务等；另外，还负责该公司智能门锁iOS客户端、pm25.in iOS客户端项目的开发及维护。
+
+## Education
+
+2005 - 2009 <br />
+Renmin University of China <br />
+Bachelor, School of Business
+
+2009年 - 2012 Chinese Institute of Certified Public Accountants
+
+## Other
+ * Language Skills: Excellent in CET-6 and GMAT(730), proficient in speaking, reading and writing English.
+ * In my spare time, I read classic technology books: <Algorithms>, <Computer Systems> and <Programming Pearls>.
+ * I host several repositories on Github such as JZDatepicker and some blog themes.
+ * I write about my career switch experience in [Quora](http://qr.ae/GzYwd)](http://qr.ae/GzYwd)

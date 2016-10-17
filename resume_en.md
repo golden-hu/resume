@@ -6,24 +6,15 @@
 
 ## Summary
 
-I am an *iOS Developer with 3+ years experience*, including exposure to web
+I am an **iOS Developer with 3+ years experience**, including exposure to web
 developemnt both in front-end and backend.
 
 I enjoy developing complex application, both in user interface and system
-levels. I am currently working on QQMusic, the *NO.1 music App* in China. In
-the process of developing for over *100 millions* users, I learn a
+levels. I am currently working on QQMusic, the **NO.1 music App** in China. In
+the process of developing for over **100 millions** users, I learn a
 lot about code optimization, debugging and writing reusable code.
 
 As an iOS develop lead, I take major part in designing and developing Klook iOS App, which is featured as "Best of 2015" by Apple.
-
-* 3 years objective-c/iOS development experience
-* 1 year building complex application (QQMusic) for the iPhone using
-* Objective-C with Cocoa and other framework. Serving *** millions of
- activeusers
-* Experience in user interface and system levels
-* Experience in Debug/Refactor complex code bases.
-* Experience in multithreading programming, unit tests and testable code
-* good knowledge of iOS SDK performance tools and optimization techniques
 
 ## Skills and Experience
 
@@ -55,13 +46,24 @@ tcp and Restful API.
 ### Tencent Technology (Shenzhen) Co Ltd
 
 #### iOS Software Engineer - August, 2015 - Present
- * Skills: iOS SDK, Instruments, TestFlight, Git Flow
+ * Skills used: iOS SDK, Objective-C, Instruments, TestFlight, Git Flow
+ * Role overview: Lead to architect build important UI components for
+ * QQMusic iOS App. Take charge to refactor heritage code. 
+ * Interesting challenges: Reduce the app size from 100M+ to 50M. As the app
+ serve millions of users, we collect data and advices directly from users to
+ improve App functions. BLABLABLA...
 
 ### Klook Travel Technology Limited (klook.com)
 
 #### iOS Software Engineer - Jul, 2014 - Aug, 2015
 
- * Skills: iOS SDK, TDD, Instruments, TestFlight, Git Flow, Javascript, HTML, CSS, Java
+ * Skills used: iOS SDK, Test-Driven Development, TestFlight, Git Flow, Javascript, HTML, CSS, Java
+ * Role overview: Originally employed to build Klook iOS App from ground. I
+  take lead in the process of building the App, including UI, Api service,
+  testing, iterating and publishing. I also participate in development of the
+  web service, both front-end and backend.
+  * Interesting challenges: The App involved multi-language and multi-currency
+   offshore payment. 
  * 主要职责：负责Klook iOS App架构及开发，参与该App原型、界面设计、Api设计、开发、测试、发布全过程及产品的多次版本迭代。参与维护Klook网站前端及部分后端代码。
  * 技术难点：Klook App涉及多语言浏览、多货币境外支付等功能，软件复杂度较高。另外，为了提高用户体验，需要实现较为复杂的用户交互界面。App在App Store **第一次提交**就通过审核，发布首月就被评为**优秀新App**登上App Store首页推荐(链接：[http://dwz.cn/MEOUQ](http://dwz.cn/MEOUQ))。
 
@@ -75,13 +77,14 @@ tcp and Restful API.
 ## Education
 
 2005 - 2009 <br />
-Renmin University of China <br />
+*Renmin University of China* <br />
 Bachelor, School of Business
 
-2009年 - 2012 Chinese Institute of Certified Public Accountants
+2009 - 2012 
+Chinese Institute of Certified Public Accountants <br />
 
 ## Other
- * Language Skills: Excellent in CET-6 and GMAT(730), proficient in speaking, reading and writing English.
+ * Language Skills: **Excellent in CET-6 and GMAT(730)**, proficient in speaking, reading and writing English.
  * In my spare time, I read classic technology books: <Algorithms>, <Computer Systems> and <Programming Pearls>.
  * I host several repositories on Github such as JZDatepicker and some blog themes.
  * I write about my career switch experience in [Quora](http://qr.ae/GzYwd)](http://qr.ae/GzYwd)

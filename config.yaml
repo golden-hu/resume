@@ -3,11 +3,11 @@
 # Stuff about you.
 user_config:
   # Your Name. This will be used for the page title
-  name: '郝健宗'
+  name: 'HAO JIANZONG'
 
   # The file you want to parse to be your resume
   # Must be a format supported by github-markup
-  file: 'resume.md'
+  file: 'resume_en.md'
 
   # A picture of you. Should be a complete url
   pic: 'http://www.haojianzong.com/images/avatar.png'

@@ -7,7 +7,7 @@
 ## Summary
 
 I am an **iOS Developer with 3+ years experience**, including exposure to web
-developemnt both in front-end and backend.
+development both in front-end and backend.
 
 I enjoy developing complex application, both in user interface and system
 levels. I am currently working on QQMusic, the **NO.1 music App** in China. In
@@ -31,7 +31,7 @@ the code base of Klook iOS App is easier to develop, iterate, test, and maintain
 and animation. It is crucial for an iOS App to excel in UI/UX. Therefore, I
 work hard to achieve good UI/UX experience for every App I develop. I am skilled in using storyboard, Auto Layout. Because using Interface Builder is not friendly to version
 control software, I sometimes prefer writing user interface code
-programatically.
+programmatically.
 
 ### Web development
 
@@ -47,8 +47,7 @@ tcp and Restful API.
 
 #### iOS Software Engineer - August, 2015 - Present
  * Skills used: iOS SDK, Objective-C, Instruments, TestFlight, Git Flow
- * Role overview: Lead to architect build important UI components for
- * QQMusic iOS App. Take charge to refactor heritage code. 
+ * Role overview: Lead to architect and build important UI components for QQMusic iOS App. Build new features for the App. Refactor heritage code.
  * Interesting challenges: Reduce the app size from 100M+ to 50M. In the mean
   time, I lead to refactor main UI component code. I also design a
   cross-platform skin changing UI component for the system, combining javascript
@@ -63,7 +62,7 @@ tcp and Restful API.
   take lead in the process of building the App, including UI, Api service,
   testing, iterating and publishing. I also participate in development of the
   web service, both front-end and backend.
-  * Interesting challenges: The App involved multi-language and multi-currency
+ * Interesting challenges: The App involved multi-language and multi-currency
    offshore payment. Complicated UI/Animation are programmed and tuned to make
    the App more appealing. The App is featured as Best New Apps by Apple on first
    launch. By the end of the year, it is featured as "Best of 2015" by Apple.
@@ -82,11 +81,11 @@ tcp and Restful API.
 *Renmin University of China* <br />
 Bachelor, School of Business
 
-2009 - 2012 
-Chinese Institute of Certified Public Accountants <br />
+2009 - 2012 <br />
+Chinese Institute of Certified Public Accountants
 
 ## Other
  * Language Skills: **Excellent in CET-6 and GMAT(730)**, proficient in speaking, reading and writing English.
- * In my spare time, I read classic technology books: <Algorithms>, <Computer Systems> and <Programming Pearls>.
+ * In my spare time, I read classic technology books, for example, *Algorithms*, *Computer Systems* and *Programming Pearls*.
  * I host several repositories on Github such as JZDatepicker and some blog themes.
  * I write about my career switch experience in [Quora](http://qr.ae/GzYwd)](http://qr.ae/GzYwd)

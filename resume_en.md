@@ -49,9 +49,10 @@ tcp and Restful API.
  * Skills used: iOS SDK, Objective-C, Instruments, TestFlight, Git Flow
  * Role overview: Lead to architect build important UI components for
  * QQMusic iOS App. Take charge to refactor heritage code. 
- * Interesting challenges: Reduce the app size from 100M+ to 50M. As the app
- serve millions of users, we collect data and advices directly from users to
- improve App functions. BLABLABLA...
+ * Interesting challenges: Reduce the app size from 100M+ to 50M. In the mean
+  time, I lead to refactor main UI component code. I also design a
+  cross-platform skin changing UI component for the system, combining javascript
+  and Objective-C techniques. As the app serve millions of users, we constantly collect feedback directly from users to improve App functions.
 
 ### Klook Travel Technology Limited (klook.com)
 
@@ -63,16 +64,17 @@ tcp and Restful API.
   testing, iterating and publishing. I also participate in development of the
   web service, both front-end and backend.
   * Interesting challenges: The App involved multi-language and multi-currency
-   offshore payment. 
- * 主要职责：负责Klook iOS App架构及开发，参与该App原型、界面设计、Api设计、开发、测试、发布全过程及产品的多次版本迭代。参与维护Klook网站前端及部分后端代码。
- * 技术难点：Klook App涉及多语言浏览、多货币境外支付等功能，软件复杂度较高。另外，为了提高用户体验，需要实现较为复杂的用户交互界面。App在App Store **第一次提交**就通过审核，发布首月就被评为**优秀新App**登上App Store首页推荐(链接：[http://dwz.cn/MEOUQ](http://dwz.cn/MEOUQ))。
+   offshore payment. Complicated UI/Animation are programmed and tuned to make
+   the App more appealing. The App is featured as Best New Apps by Apple on first
+   launch. By the end of the year, it is featured as "Best of 2015" by Apple.
 
 ### Guangzhou BestApp Co Ltd 
 
 #### iOS Software Engineer - Nov, 2013 - Jul, 2014
 
- * 使用技术：iOS, Ruby on Rails, TDD, Git, Javascript, HTML, CSS
- * 主要职责：负责开发酒店订房客户端开发，服务端自动生成App；参与该酒店项目服务端开发（Ruby on Rails）及前端开发，包括沟通需求、独立开发商户后台管理系统前后端多个功能、接入七牛云储存服务等；另外，还负责该公司智能门锁iOS客户端、pm25.in iOS客户端项目的开发及维护。
+ * Skills used：iOS, Ruby on Rails, TDD, Git, Javascript, HTML, CSS
+ * Role overview: Develop an hotel booking iOS App. Involved in web front-end
+  projects development.
 
 ## Education
 

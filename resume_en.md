@@ -14,7 +14,7 @@ levels. I am currently working on QQMusic, the **NO.1 music App** in China.
 While developing for over **100 millions** users, I learn a
 lot about code optimization, debugging and writing reusable code.
 
-As an iOS develop lead, I take major part in designing and developing Klook iOS App, which is featured as "Best of 2015" by Apple.
+As an iOS develop lead, I develop Klook iOS App, which is featured as "Best of 2015" by Apple.
 
 ## Skills and Experience
 
@@ -36,7 +36,7 @@ control software, I prefer writing user interface code programmatically for comp
 ### Web development
 
 I am familiar with web development, both in **front-end and backend**. I have
-develop for and maintain several commercial websites using jQuery, CSS and
+develop and maintain several commercial websites using jQuery, CSS and
 HTML. On the other hand, I have experience in Ruby on Rails development.
 Therefore, I am familiar with network programming, for example, http, json,
 tcp and Restful API.
@@ -47,23 +47,22 @@ tcp and Restful API.
 
 #### iOS Software Engineer - August, 2015 - Present
  * Skills used: iOS SDK, Objective-C, Instruments, TestFlight, Git Flow, Javascript
- * Role overview: Lead to architect and build important UI components for QQMusic iOS App. Build new features for the App. Refactor heritage code.
- * Interesting challenges: Reduce the app size from 100M+ to 50M. In the mean
-  time, I lead to refactor main UI component code. I also design a
-  **cross-platform skin changing UI component** for the system, combining javascript
-  and Objective-C techniques. As the app serve millions of users, we constantly collect feedback directly from users to improve App functions.
+ * Role overview: Architect and build important UI components for QQMusic iOS App. Build new features for the App. Refactor heritage code.
+ * Interesting challenges: Reduce the app size from 100M+ to 50M. Meanwhile, I refactor main UI component code. I also design a
+  **cross-platform skin changing UI component** for the system, combining
+  javascript and Objective-C techniques. As the app serves millions of users, we constantly collect feedback directly from users to improve App functions.
 
 ### Klook Travel Technology Limited (klook.com)
 
 #### iOS Software Engineer - Jul, 2014 - Aug, 2015
 
  * Skills used: iOS SDK, Test-Driven Development, TestFlight, Git Flow, Javascript, HTML, CSS, Java
- * Role overview: Originally employed to build Klook iOS App from ground. I
-  take lead in the process of building the App, including UI, Api service,
+ * Role overview: Originally employed to build Klook iOS App from the ground up. I
+  participate in every part of building the App, including UI design, Api service,
   testing, iterating and publishing. I also participate in development of the
   web service, both front-end and backend.
  * Interesting challenges: The App involved multi-language and multi-currency
-   offshore payment. Complicated UI/Animation are programmed and tuned to make
+   offshore payment. Complicated UI/Animation are built and tuned to make
    the App more appealing. The App is featured as Best New Apps by Apple on first
    launch. By the end of the year, it is featured as **"Best of 2015"** by Apple.
 

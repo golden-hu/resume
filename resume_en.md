@@ -27,7 +27,7 @@ experience, MVC is not the only option for iOS Apps. During the development of
 Klook iOS App, I apply MVVM to build the structure of the app. As a result,
 the code base of Klook iOS App is simple to develop, iterate, test, and maintain.
 
-**UI / Animation** - I have rich experience in developing iOS user interface
+**UI/Animation** - I have rich experience in developing iOS user interface
 and animation. It is crucial for an iOS App to excel in UI/UX. Therefore, I
 work hard to achieve good UI/UX experience for every App I develop. I am
 skilled in using storyboard, Auto Layout and CAAnimation. Because using Interface Builder is not friendly to version
@@ -59,7 +59,7 @@ tcp and Restful API.
  * Skills used: iOS SDK, Test-Driven Development, TestFlight, Git Flow, Javascript, HTML, CSS, Java
  * Role overview: Originally employed to build Klook iOS App from the ground up. I
   participate in every part of building the App, including UI design, Api service,
-  testing, iterating and publishing. I also participate in development of the
+  testing, iterating and publishing. I also participate in the development of the
   web service, both front-end and backend.
  * Interesting challenges: The App involved multi-language and multi-currency
    offshore payment. Complicated UI/Animation are built and tuned to make
@@ -87,4 +87,4 @@ Chinese Institute of Certified Public Accountants
  * Language Skills: **Excellent in CET-6 and GMAT(730)**, proficient in speaking, reading and writing English.
  * In my spare time, I read classic technology books, for example, *Algorithms*, *Computer Systems* and *Programming Pearls*.
  * I host several repositories on Github such as JZDatepicker and some blog themes.
- * I write about my career switch experience in [Quora](http://qr.ae/GzYwd)](http://qr.ae/GzYwd)
+ * I write about my career switch experience in [Quora](http://qr.ae/GzYwd)(http://qr.ae/GzYwd)

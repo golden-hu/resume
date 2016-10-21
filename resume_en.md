@@ -3,6 +3,7 @@
  * <haojianzong@gmail.com>
  * <http://www.haojianzong.com>
  * Shenzhen, China
+ * Mobile: (86)180-2865-8167
 
 ## Summary
 
@@ -73,6 +74,11 @@ tcp and Restful API.
  * Skills used：iOS, Ruby on Rails, TDD, Git, Javascript, HTML, CSS
  * Role overview: Develop a hotel booking iOS App. Involve in web front-end
   projects.
+
+<br />
+<br />
+<br />
+<br />
 
 ## Education
 

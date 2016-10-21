@@ -75,7 +75,10 @@ tcp and Restful API.
  * Role overview: Develop a hotel booking iOS App. Involve in web front-end
   projects.
 
-<p><!-- pagebreak --></p>
+<br />
+<br />
+<br />
+<br />
 
 ## Education
 

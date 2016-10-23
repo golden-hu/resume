@@ -15,7 +15,8 @@ levels. I am currently working on QQMusic, the **NO.1 music App** in China.
 While developing for over **100 millions** users, I learn a
 lot about code optimization, debugging and writing reusable code.
 
-As an iOS develop lead, I develop Klook iOS App, which is featured as "Best of 2015" by Apple.
+As an iOS develop lead, I develop Klook iOS App, which is featured as **"Best
+of 2015"** by Apple.
 
 ## Skills and Experience
 
@@ -25,7 +26,7 @@ As an iOS develop lead, I develop Klook iOS App, which is featured as "Best of 2
 software architecture. I **refactor several core UI components** of QQMusic using
 MVC, making the code easy to understand and less error prone. In my
 experience, MVC is not the only option for iOS Apps. During the development of
-Klook iOS App, I apply MVVM to build the structure of the app. As a result,
+Klook iOS App, I apply MVVM to build the app. As a result,
 the code base of Klook iOS App is simple to develop, iterate, test, and maintain.
 
 **UI/Animation** - I have rich experience in developing iOS user interface
@@ -93,4 +94,4 @@ Chinese Institute of Certified Public Accountants
  * Language Skills: **Excellent in CET-6 and GMAT(730)**, proficient in speaking, reading and writing English.
  * In my spare time, I read classic technology books, for example, *Algorithms*, *Computer Systems* and *Programming Pearls*.
  * I host several repositories on Github such as JZDatepicker and some blog themes.
- * I write about my career switch experience in [Quora](http://qr.ae/GzYwd)(http://qr.ae/GzYwd)
+ * I share my career switch experience in [Quora](http://qr.ae/GzYwd)(http://qr.ae/GzYwd)

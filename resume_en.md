@@ -50,7 +50,7 @@ tcp and Restful API.
 #### iOS Software Engineer - August, 2015 - Present
  * Skills used: iOS SDK, Objective-C, Instruments, TestFlight, Git Flow, Javascript
  * Role overview: Architect and build important UI components for QQMusic iOS App. Build new features for the App. Refactor heritage code.
- * Interesting challenges: Reduce the app size from 100M+ to 50M. Meanwhile, I refactor main UI component code. I also design a
+ * Interesting challenges: Reduce the app size from 100M+ to 50M. Meanwhile, I refactor code for main UI components. I also design a
   **cross-platform skin changing UI component** for the system, combining
   javascript and Objective-C techniques. As the app serves millions of users, we constantly collect feedback directly from users to improve App functions.
 

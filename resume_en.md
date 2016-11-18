@@ -15,8 +15,7 @@ levels. I am currently working on QQMusic, the **NO.1 music App** in China.
 While developing for over **100 millions** users, I learn a
 lot about code optimization, debugging and writing reusable code.
 
-As an iOS develop lead, I develop Klook iOS App, which is featured as **"Best
-of 2015"** by Apple.
+As an iOS develop lead, I develop Klook Travel iOS App, which is featured as **"Best of 2015"** by Apple.
 
 ## Skills and Experience
 
@@ -58,15 +57,12 @@ tcp and Restful API.
 
 #### iOS Software Engineer - Jul, 2014 - Aug, 2015
 
- * Skills used: iOS SDK, Test-Driven Development, TestFlight, Git Flow, Javascript, HTML, CSS, Java
+ * Skills used: iOS SDK, Test-Driven Development, TestFlight, Git Flow, Java, Javascript, HTML, CSS
  * Role overview: Originally employed to build Klook iOS App from the ground up. I
   participate in every part of building the App, including UI design, Api service,
   testing, iterating and publishing. I also participate in the development of the
   web service, both front-end and backend.
- * Interesting challenges: The App involved multi-language and multi-currency
-   offshore payment. Complicated UI/Animation are built and tuned to make
-   the App more appealing. The App is featured as Best New Apps by Apple on first
-   launch. By the end of the year, it is featured as **"Best of 2015"** by Apple.
+ * Interesting challenges: The App is an online travel activity booking service, involved multi-language and multi-currency offshore payment. Complicated UI/Animation are built and tuned to make the App more appealing. The App is featured as Best New Apps by Apple on first launch. By the end of the year, it is featured as **"Best of 2015"** by Apple.
 
 ### Guangzhou BestApp Co Ltd 
 
